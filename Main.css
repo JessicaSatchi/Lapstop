@@ -1,0 +1,41 @@
+.main_text{
+    width: 390px;
+    float:left;
+    padding-left: 10%;
+    padding-top: 5%;
+  }
+  
+  h1{
+    font-size: 15px;
+    width: 390px;
+    float:left;
+    padding-left: 1%;
+    padding-top: 5%;
+  }
+  
+  
+  h2{
+    font-size: 55px;
+  }
+  
+  .main_image{
+    position: absolute;
+    height: 70vmin;
+    right: 45px;
+    top: 150px;
+  }
+  
+  .getstartedbtn{
+    position: absolute;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    background-color: rgb(3, 126, 250);
+    width: 200px;
+    color: white;
+    border-radius: 20px;
+    top: 550px;
+  ;
+  }
